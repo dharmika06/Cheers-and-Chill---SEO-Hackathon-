@@ -5,3 +5,21 @@ A team-based hospitality and brand concept hackathon project showcasing Cheers &
 Explore our Cheers & Chill website:
 
 **[Visit Cheers & Chill](https://sites.google.com/view/cheers-and-chill/home)**
+
+💡 Skills Demonstrated
+* Search Engine Optimization (SEO) Fundamentals
+* Website Creation and Content Organization
+* Digital Marketing Concepts
+* Brand Identity Development
+* Promotional Poster Design
+* Presentation Design
+* Menu Planning and Product Positioning
+* Customer Experience Planning
+* Team Collaboration
+
+
+🛠️ Tools & Technologies
+* Google Sites – Website creation
+* Canva – Promotional poster and visual design
+* Microsoft PowerPoint – Project presentation
+* GitHub – Project documentation and portfolio hosting
